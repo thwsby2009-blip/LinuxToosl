@@ -529,11 +529,4 @@ find ${BACKUP_ROOT} -name "*.tar.gz" -mtime +${RETENTION_DAYS} -delete
 
 ---
 
-**上一章**: [開發工具](05-dev-tools.md)
-
-## 下一步
-
-- 持續學習和實踐
-- 關注安全最佳實踐
-- 探索 Kubernetes、雲計算等進階主題
-- 貢獻回饋社區知識
+**上一章**: [開發工具](05-dev-tools.md) | **下一章**: [高級主題](07-advanced-topics.md)
