@@ -24,4 +24,4 @@ else:
 
 # --- 頁尾設計 ---
 st.sidebar.divider()
-st.sidebar.info("講師：嚴 稑 臻")
+st.sidebar.info("編輯：Harry.Tsai")
