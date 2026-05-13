@@ -60,7 +60,7 @@ else:
     if st.sidebar.button("🔄 刷新內容同步"):
         st.rerun()
 
-    st.sidebar.info("講師：嚴 稑 臻\n網管開發助手：Gemini")
+    st.sidebar.info("編輯：Harry.Tsai\n網管開發助手：Gemini")
 
     # --- 主畫面邏輯 ---
     if selected_file == "--- 請選擇 ---":
